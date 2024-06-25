@@ -1513,4 +1513,6 @@ It would output the following to the client:
 
 You'll notice that the client doesn't see any PHP code because it's on the **Backend**. This interactivity opens up a lot more security issues for web applications that haven't been created securely, as you learn in further modules.
 
+![cert](/assets/posts/PreSecurity/cert.png)
+
 With this, we have come to an end in this fun journey. Keep going, Traveler. Peace.
